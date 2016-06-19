@@ -1,4 +1,4 @@
-# Arduino_SmileFunctionDecoder2
+# Arduino_SmileFunctionDecoder2_light
 <br>
 SmileFunctionDecoder2 (AYA002-2)用の車両ファンクッションデコーダスケッチです。<br>
 <br>
